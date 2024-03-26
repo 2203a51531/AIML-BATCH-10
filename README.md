@@ -1,4 +1,4 @@
-# AIML-BATCH-10
+# AIML-BATCH-10_2203A51531_A.Rajeshwari
 1.[lab-01](https://github.com/2203a51531/AIML-BATCH-10/blob/main/Lab_01.ipynb)
 2.[lab-02](https://github.com/2203a51531/AIML-BATCH-10/blob/main/lab_02.ipynb)
 3.[Lab-03](https://github.com/2203a51531/AIML-BATCH-10/blob/main/Lab03_AIML.ipynb)
