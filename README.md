@@ -9,5 +9,5 @@
 8.[lab-08](https://github.com/2203a51531/AIML-BATCH-10/blob/main/lab_08.ipynb)
 9.[lab-09](https://github.com/2203a51531/AIML-BATCH-10/blob/main/lab_09.ipynb)
 10.[lab-10](https://github.com/2203a51531/AIML-BATCH-10/blob/main/lab_10.ipynb)
-11.[project](https://github.com/2203a51531/AIML-BATCH-10/blob/main/Rainfall%20Prediction.ipynb)
+11.[project](https://github.com/2203a51531/AIML-BATCH-10/blob/main/Rainfall%20Prediction%20Project.ipynb)
 
